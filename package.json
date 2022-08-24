@@ -1,0 +1,21 @@
+{
+  "name": "tech-arch-doc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.50",
+    "@vuepress/plugin-nprogress": "^1.9.7",
+    "@vuepress/plugin-search": "^2.0.0-beta.50",
+    "vuepress": "^2.0.0-beta.50"
+  },
+  "dependencies": {
+    "vue-template-compiler": "^2.7.10"
+  }
+}
