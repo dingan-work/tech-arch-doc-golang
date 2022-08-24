@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /_images/heroImage.gif
+heroImage: https://cos.ganhua.wiki/heroImage.gif
 actions: 
 - text: Ganhua博客
   link: https://www.ganhua.work
